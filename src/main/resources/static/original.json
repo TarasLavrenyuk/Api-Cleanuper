@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "74b40f73-0710-4679-b74f-be04339a3dbd",
+    "doctor": {
+      "firstName": "Jermey",
+      "lastName": "Stracke"
+    },
+    "durationInMinutes": 12,
+    "time": 1623210780000,
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 7749
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "386a0d12-0866-4f30-b995-2d51fad296f4",
+    "doctor": {
+      "firstName": "Jermey",
+      "lastName": "Stracke"
+    },
+    "durationInMinutes": 19,
+    "time": 1623210780000,
+    "service": {
+      "name": "Hip replacement",
+      "price": 2309
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "7748fd9c-e337-493b-9faa-fdb933e645ef",
+    "doctor": {
+      "firstName": "Winnifred",
+      "lastName": "Orn"
+    },
+    "durationInMinutes": 9,
+    "time": 1623207240000,
+    "service": {
+      "name": "Enema",
+      "price": 4700
+    },
+    "location": {
+      "name": null,
+      "timeZone": null
+    }
+  },
+  {
+    "id": "f3a2249e-c53c-4ac1-a455-22a5f644749b",
+    "doctor": {
+      "firstName": "Aidan",
+      "lastName": "Schroeder"
+    },
+    "durationInMinutes": 7,
+    "time": 1623202920000,
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9006
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "5bd073d0-69cd-4725-bc5f-738e9d05f172",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 11,
+    "time": 1623211020000,
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 7933
+    },
+    "location": {
+      "name": null,
+      "timeZone": null
+    }
+  },
+  {
+    "id": "2ac9e848-07e2-46fd-9191-dc89ccbc3b8d",
+    "doctor": {
+      "firstName": "Clyde",
+      "lastName": "Spinka"
+    },
+    "durationInMinutes": 13,
+    "time": 1623240000000,
+    "service": {
+      "name": "Enema",
+      "price": 4700
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "6fd684b6-f0c9-4a6a-95cd-a35c880edcf7",
+    "doctor": {
+      "firstName": "Aidan",
+      "lastName": "Schroeder"
+    },
+    "durationInMinutes": 5,
+    "time": 1623202920000,
+    "service": {
+      "name": "Podiatry",
+      "price": 3456
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "7566df80-2b4d-40a1-a136-6cd3856000f8",
+    "doctor": {
+      "firstName": "Beatrice",
+      "lastName": "Wolff"
+    },
+    "durationInMinutes": 11,
+    "time": 1623240120000,
+    "service": {
+      "name": "IUD Removal",
+      "price": 4271
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "5bd073d0-69cd-4725-bc5f-738e9d05f172",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 11,
+    "time": 1623211020000,
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 7933
+    },
+    "location": {
+      "name": null,
+      "timeZone": null
+    }
+  },
+  {
+    "id": "7c3ce4eb-0e7a-4880-a0fb-6e3576423203",
+    "doctor": {
+      "firstName": "Jermey",
+      "lastName": "Stracke"
+    },
+    "durationInMinutes": 9,
+    "time": 1623210780000,
+    "service": {
+      "name": "Annual check up",
+      "price": 5404
+    },
+    "location": {
+      "name": null,
+      "timeZone": null
+    }
+  },
+  {
+    "id": "17203bb1-82e5-4f3c-9ffb-738a52adb39a",
+    "doctor": {
+      "firstName": "Casimir",
+      "lastName": "Greenholt"
+    },
+    "durationInMinutes": 10,
+    "time": 1623232620000,
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 7933
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "505acf5e-d133-4dbc-94a7-d9dafbb3a044",
+    "doctor": {
+      "firstName": "Winnifred",
+      "lastName": "Orn"
+    },
+    "durationInMinutes": 13,
+    "time": 1623207240000,
+    "service": {
+      "name": "Annual check up",
+      "price": 5404
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "2872ee8e-ef13-4b73-b703-3addc81c90b6",
+    "doctor": {
+      "firstName": "Aidan",
+      "lastName": "Schroeder"
+    },
+    "durationInMinutes": 5,
+    "time": 1623202920000,
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9006
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "110342c8-73d9-42cc-b2df-37a0d0ab9584",
+    "doctor": {
+      "firstName": "Aidan",
+      "lastName": "Schroeder"
+    },
+    "durationInMinutes": 9,
+    "time": 1623202920000,
+    "service": {
+      "name": "IUD Removal",
+      "price": 4271
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "1c9614a5-0dfa-4e8b-9338-71387f5f2c46",
+    "doctor": {
+      "firstName": "Coby",
+      "lastName": "Connelly"
+    },
+    "durationInMinutes": 5,
+    "time": 1623207240000,
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 7749
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "b0589d9f-ba05-473a-9efa-1b03f49f3ab3",
+    "doctor": {
+      "firstName": "Winnifred",
+      "lastName": "Orn"
+    },
+    "durationInMinutes": 11,
+    "time": 1623207240000,
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 7749
+    },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "fea3de02-49f4-4401-8c0e-deabb7968eed",
+    "doctor": {
+      "firstName": "Melyssa",
+      "lastName": "Reichert"
+    },
+    "durationInMinutes": 15,
+    "time": 1623200460000,
+    "service": {
+      "name": "Flu shot",
+      "price": 4663
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "290ae255-368a-46fb-82af-26b5393a55a8",
+    "doctor": {
+      "firstName": "Noah",
+      "lastName": "Quitzon"
+    },
+    "durationInMinutes": 11,
+    "time": 1623203760000,
+    "service": {
+      "name": "Annual check up",
+      "price": 5404
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "35255586-07cc-4102-ad68-79ed993bfef9",
+    "doctor": {
+      "firstName": "Beatrice",
+      "lastName": "Wolff"
+    },
+    "durationInMinutes": 11,
+    "time": 1623240120000,
+    "service": {
+      "name": "MRI Scan",
+      "price": 6958
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "abfbd737-0632-486f-aabd-9c5cfb552012",
+    "doctor": {
+      "firstName": "Casimir",
+      "lastName": "Greenholt"
+    },
+    "durationInMinutes": 8,
+    "time": 1623232620000,
+    "service": {
+      "name": "IUD Removal",
+      "price": 4271
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "0726826c-b514-4733-9042-4c7238b381bb",
+    "doctor": {
+      "firstName": "Casimir",
+      "lastName": "Greenholt"
+    },
+    "durationInMinutes": 10,
+    "time": 1623232620000,
+    "service": {
+      "name": "IUD Removal",
+      "price": 4271
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "6aa81b51-b654-47e2-8a64-71e21d557bbd",
+    "doctor": {
+      "firstName": "Winnifred",
+      "lastName": "Orn"
+    },
+    "durationInMinutes": 8,
+    "time": 1623207240000,
+    "service": {
+      "name": "Podiatry",
+      "price": -1
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "5eb23208-e04d-4b32-acde-8eaefe5f33d9",
+    "doctor": {
+      "firstName": "Noah",
+      "lastName": "Quitzon"
+    },
+    "durationInMinutes": 8,
+    "time": 1623203760000,
+    "service": {
+      "name": "Podiatry",
+      "price": 3456
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "36e2f6ec-801b-43d0-8143-e0dd86692c5a",
+    "doctor": {
+      "firstName": "Aidan",
+      "lastName": "Schroeder"
+    },
+    "durationInMinutes": 7,
+    "time": 1623202920000,
+    "service": {
+      "name": "Annual check up",
+      "price": 5404
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "6e5af70a-b2e1-4078-a8ff-a97851ea2f3d",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 16,
+    "time": 1623211020000,
+    "service": {
+      "name": "Cardiology consultation",
+      "price": 3770
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "62d30a1b-d8dc-46df-b29a-7e91079b894f",
+    "doctor": {
+      "firstName": "Coby",
+      "lastName": "Connelly"
+    },
+    "durationInMinutes": 14,
+    "time": 1623207240000,
+    "service": {
+      "name": "Hip replacement",
+      "price": 2309
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "6d9c7b00-4bfc-44a5-a707-3183648be57b",
+    "doctor": {
+      "firstName": "Noah",
+      "lastName": "Quitzon"
+    },
+    "durationInMinutes": 8,
+    "time": 1623203760000,
+    "service": {
+      "name": "Podiatry",
+      "price": 3456
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "b29abb01-63ca-4164-b5ce-7731eaf60fa5",
+    "doctor": {
+      "firstName": "Clyde",
+      "lastName": "Spinka"
+    },
+    "durationInMinutes": 6,
+    "time": 1623240000000,
+    "service": {
+      "name": "Hip replacement",
+      "price": 2309
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "5c3c7b7a-ff8e-4422-b05d-1d1e6a731c5b",
+    "doctor": {
+      "firstName": "Coby",
+      "lastName": "Connelly"
+    },
+    "durationInMinutes": 14,
+    "time": 1623207240000,
+    "service": {
+      "name": "Cardiology consultation",
+      "price": 3770
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "45e5e6cb-8d7e-4172-a1bd-37ff8687bcba",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 13,
+    "time": 1623211020000,
+    "service": {
+      "name": "Hip replacement",
+      "price": 2309
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "66c366d3-8751-4bea-8f29-1c41260bd13d",
+    "doctor": {
+      "firstName": "Coby",
+      "lastName": "Connelly"
+    },
+    "durationInMinutes": 7,
+    "time": 1623207240000,
+    "service": {
+      "name": "MRI Scan",
+      "price": 6958
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "bebb1ba2-fe56-4879-a6a1-bdcd7250eefc",
+    "doctor": {
+      "firstName": "Jermey",
+      "lastName": "Stracke"
+    },
+    "durationInMinutes": 8,
+    "time": 1623210780000,
+    "service": {
+      "name": "IUD Removal",
+      "price": 4271
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "c5fcf729-d800-4fdf-88b2-adf70b583430",
+    "doctor": {
+      "firstName": "Jermey",
+      "lastName": "Stracke"
+    },
+    "durationInMinutes": 8,
+    "time": 1623210780000,
+    "service": {
+      "name": "Flu shot",
+      "price": -1
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "e5660ed9-ecb5-4d0e-9392-e3fc36586c37",
+    "doctor": {
+      "firstName": "Clyde",
+      "lastName": "Spinka"
+    },
+    "durationInMinutes": 10,
+    "time": 1623240000000,
+    "service": {
+      "name": "MRI Scan",
+      "price": 6958
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "a098bfa1-17c4-4f80-8d67-7c06983ffe71",
+    "doctor": {
+      "firstName": "Beatrice",
+      "lastName": "Wolff"
+    },
+    "durationInMinutes": 5,
+    "time": 1623240120000,
+    "service": {
+      "name": "Enema",
+      "price": 4700
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "488b28d8-99cf-4f3f-bda5-4995eb2ad2e1",
+    "doctor": {
+      "firstName": "Casimir",
+      "lastName": "Greenholt"
+    },
+    "durationInMinutes": 10,
+    "time": 1623232620000,
+    "service": {
+      "name": "Enema",
+      "price": 4700
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "fea3de02-49f4-4401-8c0e-deabb7968eed",
+    "doctor": {
+      "firstName": "Melyssa",
+      "lastName": "Reichert"
+    },
+    "durationInMinutes": 15,
+    "time": 1623200460000,
+    "service": {
+      "name": "Flu shot",
+      "price": 4663
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "81e4ac92-8f20-44d3-90f9-a1f268b5bebb",
+    "doctor": {
+      "firstName": "Casimir",
+      "lastName": "Greenholt"
+    },
+    "durationInMinutes": 9,
+    "time": 1623232620000,
+    "service": {
+      "name": "MRI Scan",
+      "price": 6958
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "bb7b78c2-03d5-4c38-9dac-7f337f97b68c",
+    "doctor": {
+      "firstName": "Melyssa",
+      "lastName": "Reichert"
+    },
+    "durationInMinutes": 11,
+    "time": 1623200460000,
+    "service": {
+      "name": "IUD Removal",
+      "price": 4271
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "56ed65f0-b487-4bb9-95c0-6460d198b66b",
+    "doctor": {
+      "firstName": "Melyssa",
+      "lastName": "Reichert"
+    },
+    "durationInMinutes": 6,
+    "time": 1623200460000,
+    "service": {
+      "name": "Counselling",
+      "price": 3258
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "76ae266a-b323-4fa7-bfc9-101448cf66e7",
+    "doctor": {
+      "firstName": "Noah",
+      "lastName": "Quitzon"
+    },
+    "durationInMinutes": 15,
+    "time": 1623203760000,
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 7749
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "6a814a80-b94f-4fa0-9397-dd8d74e2fd45",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 14,
+    "time": 1623211020000,
+    "service": {
+      "name": "MRI Scan",
+      "price": 6958
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "ec77d12f-5afd-4b97-ad29-b59189ce60fc",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 6,
+    "time": 1623211020000,
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9006
+    },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "347aff7e-efa9-41dc-96d3-ce624c7228eb",
+    "doctor": {
+      "firstName": "Melyssa",
+      "lastName": "Reichert"
+    },
+    "durationInMinutes": 15,
+    "time": 1623200460000,
+    "service": {
+      "name": "X-Ray",
+      "price": 9613
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "b5378bd6-d543-47f4-893f-7b311ab3200c",
+    "doctor": {
+      "firstName": "Beatrice",
+      "lastName": "Wolff"
+    },
+    "durationInMinutes": 9,
+    "time": 1623240120000,
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9006
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "03b4cd49-fea1-4628-9494-ae3cdf8cd53d",
+    "doctor": {
+      "firstName": "Winnifred",
+      "lastName": "Orn"
+    },
+    "durationInMinutes": 11,
+    "time": 1623207240000,
+    "service": {
+      "name": "Counselling",
+      "price": 3258
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "45e5e6cb-8d7e-4172-a1bd-37ff8687bcba",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 13,
+    "time": 1623211020000,
+    "service": {
+      "name": "Hip replacement",
+      "price": 2309
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "d913bcae-1b9a-47e7-bddf-87f05e980653",
+    "doctor": {
+      "firstName": "Melyssa",
+      "lastName": "Reichert"
+    },
+    "durationInMinutes": 8,
+    "time": 1623200460000,
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9006
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "f8770ff4-106c-4bf2-b9de-38195630a50e",
+    "doctor": {
+      "firstName": "Coby",
+      "lastName": "Connelly"
+    },
+    "durationInMinutes": 7,
+    "time": 1623207240000,
+    "service": {
+      "name": "Podiatry",
+      "price": 3456
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "fde8b13b-10f7-42bc-94c4-95355635cae9",
+    "doctor": {
+      "firstName": "Clyde",
+      "lastName": "Spinka"
+    },
+    "durationInMinutes": 11,
+    "time": 1623240000000,
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9006
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "ab9275f5-99d7-40cb-803d-94b03e770910",
+    "doctor": {
+      "firstName": "Beatrice",
+      "lastName": "Wolff"
+    },
+    "durationInMinutes": 12,
+    "time": 1623240120000,
+    "service": {
+      "name": "Counselling",
+      "price": 3258
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "5264f55d-938c-4413-8816-1cedc850f28e",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 12,
+    "time": 1623211020000,
+    "service": {
+      "name": "Enema",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "c659868b-52a4-4bf1-9883-a6970a96d4ee",
+    "doctor": {
+      "firstName": "Coby",
+      "lastName": "Connelly"
+    },
+    "durationInMinutes": 7,
+    "time": 1623207240000,
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 7749
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "4e5f831c-21d1-4203-8998-4c8f067e7a44",
+    "doctor": {
+      "firstName": "Winnifred",
+      "lastName": "Orn"
+    },
+    "durationInMinutes": 17,
+    "time": 1623207240000,
+    "service": {
+      "name": "Enema",
+      "price": 4700
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "9742f0ad-0560-4a16-8501-6bc3f96ad67b",
+    "doctor": {
+      "firstName": "Clyde",
+      "lastName": "Spinka"
+    },
+    "durationInMinutes": 15,
+    "time": 1623240000000,
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9006
+    },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "e5c10ebf-4eb7-4a9f-b540-706fd0ea56a6",
+    "doctor": {
+      "firstName": "Noah",
+      "lastName": "Quitzon"
+    },
+    "durationInMinutes": 9,
+    "time": 1623203760000,
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 7933
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "4b6b997a-51d2-4828-8b78-143add614239",
+    "doctor": {
+      "firstName": "Noah",
+      "lastName": "Quitzon"
+    },
+    "durationInMinutes": 5,
+    "time": 1623203760000,
+    "service": {
+      "name": "MRI Scan",
+      "price": 6958
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "51152aa3-9b03-4428-b36e-c22f5a5ca346",
+    "doctor": {
+      "firstName": "Clyde",
+      "lastName": "Spinka"
+    },
+    "durationInMinutes": 5,
+    "time": 1623240000000,
+    "service": {
+      "name": "Podiatry",
+      "price": 3456
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "6a814a80-b94f-4fa0-9397-dd8d74e2fd45",
+    "doctor": {
+      "firstName": "Laurence",
+      "lastName": "Feeney"
+    },
+    "durationInMinutes": 14,
+    "time": 1623211020000,
+    "service": {
+      "name": "MRI Scan",
+      "price": 6958
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "f59fef5a-c918-4a54-9937-1a5951acf1ae",
+    "doctor": {
+      "firstName": "Aidan",
+      "lastName": "Schroeder"
+    },
+    "durationInMinutes": 9,
+    "time": 1623202920000,
+    "service": {
+      "name": "Counselling",
+      "price": 3258
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "05b09291-8708-4277-815c-2e0298a0fb22",
+    "doctor": {
+      "firstName": "Jermey",
+      "lastName": "Stracke"
+    },
+    "durationInMinutes": 12,
+    "time": 1623210780000,
+    "service": {
+      "name": "Hip replacement",
+      "price": 2309
+    },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "b7e28313-c88f-4ee4-9959-3c4d12dbdc43",
+    "doctor": {
+      "firstName": "Beatrice",
+      "lastName": "Wolff"
+    },
+    "durationInMinutes": 14,
+    "time": 1623240120000,
+    "service": {
+      "name": "Hip replacement",
+      "price": 2309
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "29986642-fa86-4c5f-aa10-361cb028ba95",
+    "doctor": {
+      "firstName": "Casimir",
+      "lastName": "Greenholt"
+    },
+    "durationInMinutes": 10,
+    "time": 1623232620000,
+    "service": {
+      "name": "Enema",
+      "price": 4700
+    },
+    "location": {
+      "name": "KC Doctors",
+      "timeZone": null
+    }
+  },
+  {
+    "id": "89a95ee6-12f6-4632-9315-9f1467ae87f8",
+    "doctor": {
+      "firstName": "Melyssa",
+      "lastName": "Reichert"
+    },
+    "durationInMinutes": 6,
+    "time": 1623200460000,
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 7933
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZone": null
+    }
+  }
+]
