@@ -18,9 +18,9 @@ class AppointmentService {
     @Autowired
     private lateinit var errorScanner: NewYorkHospitalAppointmentErrorScanner
 
-    fun loadNewYorkHospitalDoctorsAppointmentsWithErrorData(): Map<String, Any> {
+    fun loadNewYorkHospitalDoctorsAppointmentsWithErrorData(): Response {
         val doctorAppointments = newYorkHospitalService.getDoctorAppointments()
-        return mapOf(
+        return Response(
             "doctorAppointments" to dataConverter.fromNewYorkHospitalDoctorAppointmentsToDoctorsWithAppointments(doctorAppointments),
             "errorData" to errorScanner.scan(doctorAppointments)
         )

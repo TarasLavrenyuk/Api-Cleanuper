@@ -12,7 +12,10 @@ import java.time.Duration
 class DataConverter {
 
     fun fromNewYorkHospitalDoctorAppointmentsToDoctorsWithAppointments(newYorkHospitalAppointments: List<DoctorAppointment>): List<DoctorWithAppointments> {
+        // map for having quick (O(1)) access to all location appointments by doctor
         val doctorsWithAppointments = mutableMapOf<DoctorInfo, DoctorWithAppointments>()
+
+        // map for having quick (O(1)) access to all appointments by doctor and location
         val doctorsAppointmentsLocations = mutableMapOf<DoctorInfoWithLocation, MutableSet<Appointment>>()
         for (newYorkHospitalAppointment in newYorkHospitalAppointments) {
 
